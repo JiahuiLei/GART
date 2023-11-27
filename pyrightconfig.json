@@ -1,0 +1,12 @@
+{
+    "exclude": [
+        "logs",
+        "data",
+        "build",
+        "**/__pycache__",
+        "extern",
+        "build",
+        "debug",
+        "viz",
+    ]
+}
