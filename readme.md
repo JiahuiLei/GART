@@ -1,6 +1,6 @@
 # GART: Gaussian Articulated Template Models
 
-[Project Page](https://www.cis.upenn.edu/~leijh/projects/gart/); [Youtube video](https://www.youtube.com/watch?v=-xYNtIlW4WY); [Bilibili video](https://www.bilibili.com/video/BV1Ru4y1F7Gp/)
+[Project Page](https://www.cis.upenn.edu/~leijh/projects/gart/); [Arxiv](https://arxiv.org/abs/2311.16099); [Youtube video](https://www.youtube.com/watch?v=-xYNtIlW4WY); [Bilibili video](https://www.bilibili.com/video/BV1Ru4y1F7Gp/)
 
 - 2023.Nov.27: Code pre-release.
 
@@ -169,4 +169,4 @@ Our code is based on several interesting and helpful projects:
 ### TODO
 
 - clean the code
-- add bibtex and arxiv link
+- add bibtex
